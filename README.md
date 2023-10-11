@@ -1,4 +1,4 @@
-# hello-world
-learning how to create a repo
+# autoskill-pro-niger
+The autoskill project
 + # About me
-+ I am 30 years old.
++ These are templates i worked on.
